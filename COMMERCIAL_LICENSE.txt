@@ -1,0 +1,30 @@
+COMMERCIAL LICENSE AGREEMENT
+Project: Rescue Asset Manager (RAM)
+Licensor: Christopher Snook / SnookMedia
+Effective Date: February 27, 2025
+
+1. Grant of License
+The Licensor grants the Licensee a non-exclusive, non-transferable, non-sublicensable license to use the Project solely for non-commercial purposes, unless otherwise explicitly agreed to in writing by the Licensor.
+
+2. Restrictions
+The Licensee shall not, without prior written permission from the Licensor:
+- Use the Project or any part of it for commercial purposes.
+- Copy, distribute, sublicense, or create derivative works based on the Project.
+- Modify, reverse engineer, or decompile any portion of the Project.
+- Sell, lease, or otherwise transfer the Project to any third party.
+
+3. Ownership
+All rights, title, and interest in and to the Project remain the exclusive property of Christopher Snook / SnookMedia. This Agreement does not grant any ownership rights to the Licensee.
+
+4. Written Permission Requirement
+Use of the Project or any of its components for any commercial activity requires explicit prior written permission from the Licensor. Unauthorized use is prohibited and may result in legal action.
+
+5. Termination
+This license is effective as of the Effective Date and remains in effect until terminated. It will terminate automatically if the Licensee fails to comply with any term of this Agreement. Upon termination, the Licensee must cease all use and destroy any copies of the Project.
+
+6. Disclaimer
+The Project is provided "AS IS" without warranty of any kind. The Licensor shall not be held liable for any claims, damages, or other liabilities arising from the use or inability to use the Project.
+
+Licensor:
+Christopher Snook
+SnookMedia
